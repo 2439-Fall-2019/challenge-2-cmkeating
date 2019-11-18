@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="com.myapp.mobile" version="2.25" xmlns="http://www.w3.org/ns/widgets">
-  <name>Shoesy</name>
-  <description>Shoesy.<description>
-
-  <icon src="shoesy.jpg" />
-</widget> 
