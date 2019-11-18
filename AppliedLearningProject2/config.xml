@@ -9,5 +9,5 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-	<icon src="panzer.jpg" />
+	<icon src="shoesy.png" />
 </widget>
